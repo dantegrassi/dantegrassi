@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Dante 👋
 
-<!--
-**dantegrassi/dantegrassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student from Argentina 🇦🇷  
+Focused on Python, R, SQL and Data Engineering  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python (pandas, numpy)
+- SQL (PostgreSQL)
+- Machine Learning (scikit-learn)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+(coming soon...)
+
+## 📫 Contact
+- GitHub: https://github.com/dantegrassi
